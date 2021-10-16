@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603126413 source:c:\users\fc\desktop\covid-19 update\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
